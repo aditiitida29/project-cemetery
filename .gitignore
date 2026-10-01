@@ -1,0 +1,16 @@
+# Dependencies & Virtual Envs
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Build outputs
+frontend/dist/
+
+# Scratch & temporary artifacts
+*.pptx
+*.pdf
+slide_*_bg.png
+make_*.py
+presentation.html
